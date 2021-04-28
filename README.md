@@ -1,2 +1,2 @@
 # github
-First GITHUB
+Welcome!
